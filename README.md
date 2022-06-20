@@ -1,2 +1,2 @@
 # practise
-print('Hello Omkar Here')
+Hello Omkar Here
